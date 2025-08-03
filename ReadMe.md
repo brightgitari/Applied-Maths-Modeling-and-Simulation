@@ -15,7 +15,7 @@ Mathematical modeling and simulation of projectile motion incorporating air resi
 - Comparative analysis with and without air resistance
 
 ### ⚡ [RLC Circuits](./RLC-Circuits/)
-**Last Updated:** July 14, 2023
+
 
 Analysis and simulation of RLC (Resistor-Inductor-Capacitor) electrical circuits. Features include:
 - Circuit differential equation modeling
